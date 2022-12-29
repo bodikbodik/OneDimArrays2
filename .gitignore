@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OneDimArrays2/bin/Debug/net6.0
+/OneDimArrays2/obj
+/OneDimArrays2.Tests/bin/Debug/net6.0
+/OneDimArrays2.Tests/obj
